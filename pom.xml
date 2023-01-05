@@ -37,7 +37,7 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 	</dependencies>
-
+<!--
 	<build>
 		<resources>
 			<resource>
@@ -49,4 +49,5 @@
 			</resource>
 		</resources>
 	</build>
+	-->
 </project>
